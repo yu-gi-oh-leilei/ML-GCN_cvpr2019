@@ -13,7 +13,7 @@ Overall framework of ML-GCN model for multi-label image recognition
 ![fig](images/framework.png)
 
 ## Results on MS-COCO:
-![fig](images/COCO.png)
+![fig](images/coco.png)
 
 ## Results on VOC2007:
 ![fig](images/voc2007.png)
